@@ -1,5 +1,7 @@
 # vue-calculator
 
+A simple mac os calculator with drag and drop
+
 ## Project setup
 ```
 yarn install
